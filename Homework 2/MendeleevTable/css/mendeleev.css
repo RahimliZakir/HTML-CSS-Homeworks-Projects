@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.th{
+    color: red;
+    width: 2px;
+}
+.menced{
+    color: green;
+}
+
+.umumi{
+    border-color: white;
+    width: 100%;
+    height: 500px;
+}
+
+.reqem{
+    color: white;
+    border-color: white;
+}
+
+.serhed{
+    border-color: white;
+}
+
+.rum{
+    color: white;
+}
+
+.serhed1{
+    border-color: white;
+}
+
+.s2{
+    border-color: white;
+}
